@@ -1,0 +1,125 @@
+body{
+    background-color: #fff;
+    
+}
+
+h4{
+   font-family:cursive;
+    font-style: italic;
+}
+
+h2{
+    font-size: 15px;
+}
+
+h6{
+    font-size: 10px;
+}
+
+.week{
+    margin: 20px;
+}
+
+.world{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left:13%;
+    bottom: 30px;
+    font-size: 15px;
+}
+
+.world-com{
+    font-size: 100%;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left:12%;
+    bottom: 30px;
+    font-weight: bolder;
+}
+
+.reach{
+    color: #fff;
+    position: relative;
+    top: 100px;
+    left: 40px;
+  
+  
+}
+
+.history{
+    width: 98%;
+    position: relative;
+    left: 30px;
+    background-color: #e3f2fd;
+    line-height: 2;
+    
+
+}
+
+.first-service{
+    width: 98%;
+    position: relative;
+    left: 30px;
+    background-color: #e3f2fd;
+}
+
+.logo{
+    
+    position: relative;
+    left: 30px;
+    top: 60px;
+    width: 100%;
+    
+}
+.headings{
+    background-color: red;
+    width: 100%;
+}
+
+.scripture{
+    width: 95%;
+    position: relative;
+    left: 30px;
+}
+
+.third-logo{
+    position: relative;
+    left: 150px;
+    bottom: 260px;
+}
+
+.service{
+    width: 50%;
+    position: relative;
+    left: 500px;
+}
+
+.forth-logo{
+    position: relative;
+    left: 150px;
+    bottom: 180px;
+}
+
+.vision{
+    width: 98%;
+    position: relative;
+    left: 30px;
+}
+
+.fifth-logo{
+    position: relative;
+    left: 150px;
+    bottom: 220px;
+}
+
+.missioner{
+    position: relative;
+    left: 900px;
+}
+
+.logo2{
+    width: 50%;
+
+}
