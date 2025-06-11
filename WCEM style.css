@@ -130,9 +130,23 @@ h6{
 
 }
 
+.request{
+    text-align: left;
+    
+}
+
 .logo2{
     width: 50%;
 
+}
+
+.reaching{
+    color: #ffffff;
+    background-color: red;
+    text-align: left;
+    padding: 1%;
+    text-align: right;
+  
 }
 
 .btn {
