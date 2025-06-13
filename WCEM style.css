@@ -40,7 +40,7 @@ h6{
 }
 
 .reach{
-    color: #fff;
+    color: #1b1212;
     text-align: right;
     
   
@@ -127,22 +127,41 @@ h6{
 .missioner{
     text-align: right;
     padding: 25px;
-
+    background-color: aquamarine;
 }
+
 
 .request{
     text-align: left;
     
 }
 
+.video{
+    background-color: #1b1212;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.weekly{
+background-color: rgb(240, 106, 106);
+padding: 20px;
+}
+
+.members{
+    background-color: aquamarine;
+}
+
 
 .reaching{
-    color: #ffffff;
+    color: #2e1d1d;
     background-color: red;
-    text-align: left;
-    padding: 1%;
+    padding: 20px;
     text-align: right;
-  
+
+}
+
+.container{
+    padding: 20px;
 }
 
 
