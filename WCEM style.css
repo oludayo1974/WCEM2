@@ -21,6 +21,9 @@ h6{
     margin: 20px;
 }
 
+
+
+
 .world{
     color: #fff;
     text-align: center;
@@ -35,6 +38,7 @@ h6{
     background-color: rgb(65, 60, 60);
 }
 
+
 .world-com{
     font-size: 100%;
     color: #fff;
@@ -43,7 +47,6 @@ h6{
     bottom: 30px;
     font-weight: bolder;
 }
-
 
 .reach{
     color: #1b1212;
@@ -60,6 +63,18 @@ h6{
     line-height: 2;
     
 
+}
+
+.grass{
+    text-align: right;
+    
+    padding: 0px 5px;
+   
+    background-color: #1b1212;
+    position: relative;
+    bottom: 5px;
+  
+    
 }
 
 .first-service{
@@ -134,6 +149,8 @@ h6{
     text-align: right;
     padding: 25px;
     background-color: aquamarine;
+    
+
 }
 
 
@@ -146,6 +163,7 @@ h6{
     background-color: #1b1212;
     color: #ffffff;
     padding: 5px;
+    
 }
 
 .weekly{
@@ -166,8 +184,10 @@ padding: 20px;
 
 }
 
-.container{
-    padding: 20px;
+.contaner{
+    width: 45%;
+    padding-left: 35px;
+    
 }
 
 
@@ -203,6 +223,7 @@ padding: 20px;
   background-image: linear-gradient(to bottom, #e3f2fa, #d1e1eb);
   text-decoration: none;
 }
+
 
 .footer-link{
     margin: 7px;
@@ -248,7 +269,30 @@ padding: 20px;
 
 
   .copiright{
-    color: #9c9393;
+    color: #444040;
     padding: 5px;
    
   }
+
+  .Christ{
+    text-align: center;
+  }
+
+  .comment{
+    position: relative;
+    left: 650px;
+    bottom: 195px;
+  }
+
+  .form-grup{
+    position: relative;
+    left: 650px;
+    bottom: 62px;
+  }
+
+  .form-grop{
+    position: relative;
+    left: 650px;
+    bottom: 72px;
+  }
+  
