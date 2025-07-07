@@ -288,13 +288,13 @@ padding: 20px;
   .form-grup{
     position: relative;
     left: 500px;
-    bottom: 62px;
+    bottom: 85px;
   }
 
   .form-grop{
     position: relative;
     left: 500px;
-    bottom: 72px;
+    bottom: 76px;
   }
   
   .partner{
@@ -311,3 +311,41 @@ padding: 20px;
     bottom: 190px;
     margin: 0 0 20px 0;
   }
+
+  .christ{
+    text-align: center;
+  }
+
+  @media (min-width: 576px) and (max-width: 992px){
+    .form-grup{
+        position: static;
+        left: 30px;
+        padding: 0 0 20px 0;
+      
+    }
+
+    .form-grop{
+        position: static;
+        left: 30px;
+        padding: 0 0 50px 0;
+       
+    }
+
+    .buttons{
+        position: static;
+        left: 30px;
+        padding: 0 0 0 30px;
+        
+    }
+
+    .country{
+        margin: 10px;
+    }
+
+    .christ{
+        text-align: center;
+        padding: 0 0 20px 0;
+        
+       
+    }
+  
