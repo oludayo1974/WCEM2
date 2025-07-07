@@ -1,7 +1,7 @@
 body{
     background-color: #fff;
-    margin: 10px;
-    text-align: center;
+    margin: 30px;
+    
     
 }
 
@@ -163,7 +163,7 @@ h6{
 .video{
     background-color: #1b1212;
     color: #ffffff;
-    padding: 5px;
+    padding: 20px;
     
 }
 
@@ -297,3 +297,17 @@ padding: 20px;
     bottom: 72px;
   }
   
+  .partner{
+    position: relative;
+    left: 40px;
+    bottom: 72px;
+    width: 42%;
+    color:red
+  }
+
+  .buttons{
+    position: relative;
+    left: 638px;
+    bottom: 190px;
+    margin: 0 0 20px 0;
+  }
