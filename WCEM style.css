@@ -186,7 +186,7 @@ padding: 20px;
 }
 
 .contaner{
-    width: 45%;
+    width: 25%;
     padding-left: 35px;
     
 }
@@ -287,13 +287,14 @@ padding: 20px;
 
   .form-grup{
     position: relative;
-    left: 500px;
+    left: 600px;
     bottom: 85px;
+    width: 75%;
   }
 
   .form-grop{
     position: relative;
-    left: 500px;
+    left: 600px;
     bottom: 76px;
   }
   
@@ -307,7 +308,7 @@ padding: 20px;
 
   .buttons{
     position: relative;
-    left: 538px;
+    left: 638px;
     bottom: 190px;
     margin: 0 0 20px 0;
   }
@@ -317,11 +318,11 @@ padding: 20px;
   }
 
   @media (min-width: 576px) and (max-width: 992px){
-        body{
-            width: 100%;
-        }
-      
-      .form-grup{
+    body{
+        width: 100%;
+    }
+
+    .form-grup{
         position: static;
         left: 30px;
         padding: 0 0 20px 0;
