@@ -317,7 +317,11 @@ padding: 20px;
   }
 
   @media (min-width: 576px) and (max-width: 992px){
-    .form-grup{
+        body{
+            width: 100%;
+        }
+      
+      .form-grup{
         position: static;
         left: 30px;
         padding: 0 0 20px 0;
