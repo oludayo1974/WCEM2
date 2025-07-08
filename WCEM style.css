@@ -309,9 +309,13 @@ padding: 20px;
 
   .buttons{
     position: relative;
-    left: 638px;
+    left: 592px;
     bottom: 190px;
-    margin: 0 0 20px 0;
+    margin: 0 0 20px 42px;
+  }
+
+  .align{
+    text-align: center;
   }
 
   .christ{
@@ -343,7 +347,7 @@ padding: 20px;
 
     .buttons{
         position: relative;
-        left: 235px;
+        left: 200px;
         bottom: 260px;
         padding: 0 0 0 30px;
         
