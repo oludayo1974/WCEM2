@@ -329,7 +329,7 @@ padding: 20px;
 
     .form-grup{
         position: relative;
-        left: 420px;
+        left: 380px;
         bottom: 85px;
         padding: 0 0 20px 0;
         width: 95%;
@@ -338,17 +338,17 @@ padding: 20px;
 
     .form-grop{
         position: relative;
-        left: 420px;
+        left: 380px;
         bottom: 76px;
         padding: 0 0 50px 0;
         width: 95%;
        
     }
 
-      .buttons{
+    .buttons{
         position: relative;
-        left: 420px;
-        bottom: 185px;
+        left: 340px;
+        bottom: 240px;
         padding: 0 0 0 30px;
         
     }
