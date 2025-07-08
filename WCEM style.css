@@ -1,3 +1,4 @@
+
 body{
     background-color: #fff;
     margin: 30px;
@@ -323,22 +324,27 @@ padding: 20px;
     }
 
     .form-grup{
-        position: static;
-        left: 30px;
+        position: relative;
+        left: 310px;
+        bottom: 85px;
         padding: 0 0 20px 0;
+        width: 95%;
       
     }
 
     .form-grop{
-        position: static;
-        left: 30px;
+        position: relative;
+        left: 310px;
+        bottom: 76px;
         padding: 0 0 50px 0;
+        width: 95%;
        
     }
 
     .buttons{
-        position: static;
-        left: 30px;
+        position: relative;
+        left: 235px;
+        bottom: 260px;
         padding: 0 0 0 30px;
         
     }
