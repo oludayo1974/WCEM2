@@ -1,10 +1,13 @@
 
 body{
     background-color: #fff;
-    margin: 30px;
     
+    width: 100%;
+    text-align: center;
+   
     
 }
+    
 
 h4{
    font-family:cursive;
@@ -23,7 +26,10 @@ h6{
     margin: 20px;
 }
 
-
+.contain{
+    width: 100%;
+    text-align: center;
+}
 
 
 .world{
@@ -35,6 +41,7 @@ h6{
     font-size: 15px;
 }
 
+
 .play-video{
     color: #fff;
     background-color: rgb(65, 60, 60);
@@ -45,17 +52,16 @@ h6{
     font-size: 100%;
     color: #fff;
     text-align: center;
-    
     bottom: 30px;
     font-weight: bolder;
 }
 
+
 .reach{
     color: #1b1212;
     text-align: right;
-    
-  
 }
+
 
 .history{
     width: 98%;
@@ -63,21 +69,17 @@ h6{
     left: 30px;
     background-color: #e3f2fd;
     line-height: 2;
-    
-
 }
+
 
 .grass{
     text-align: right;
-    
     padding: 0px 5px;
-   
     background-color: #1b1212;
     position: relative;
     bottom: 5px;
-  
-    
 }
+
 
 .first-service{
     width: 98%;
@@ -86,18 +88,21 @@ h6{
     background-color: #e3f2fd;
 }
 
+
 .logo{
-    
     text-align: center;
     top: 50px;
     width: 100%;
     padding-top: 20px;
     
 }
+
+
 .headings{
     background-color: red;
     width: 100%;
 }
+
 
 .scripture{
     width: 95%;
@@ -105,11 +110,13 @@ h6{
     left: 30px;
 }
 
+
 .third-logo{
     position: relative;
     left: 150px;
     bottom: 260px;
 }
+
 
 .service{
     width: 50%;
@@ -117,15 +124,18 @@ h6{
     left: 500px;
 }
 
+
 .forth-logo{
     position: relative;
     left: 150px;
     bottom: 180px;
 }
 
+
 .weekly{
     text-align: center;
 }
+
 
 .vision{
     width: 98%;
@@ -133,13 +143,18 @@ h6{
     left: 30px;
 }
 
+
 .contact{
     text-align: center;
 }
 
+
 .container-fluid{
     padding: 3% 15%;
+    width: 100%;
+    text-align: center;
 }
+
 
 .fifth-logo{
     position: relative;
@@ -147,31 +162,32 @@ h6{
     bottom: 220px;
 }
 
+
 .missioner{
     text-align: right;
     padding: 25px;
-    background-color: aquamarine;
-    
-
+    background-color:  rgb(25, 243, 170);
 }
 
 
 .request{
     text-align: left;
-    
 }
+
 
 .video{
     background-color: #1b1212;
     color: #ffffff;
     padding: 20px;
-    
+    text-align: left;
 }
+
 
 .weekly{
 background-color: rgb(240, 106, 106);
 padding: 20px;
 }
+
 
 .members{
     background-color: aquamarine;
@@ -183,20 +199,21 @@ padding: 20px;
     background-color: red;
     padding: 20px;
     text-align: right;
-
 }
 
+
 .contaner{
-    width: 25%;
-    padding-left: 35px;
-    
+    width: 30%;
+    padding: 0 0 0 25px;
+    position: relative;
+    left: 150px;
+    margin: 5px;
 }
 
 
 .wcem-messages{
     margin-left: 60px;
 }
-
 
 
 .btn {
@@ -216,6 +233,7 @@ padding: 20px;
   text-decoration: none;
 }
 
+
 .btn:hover {
   background: #e3f2fa;
   background-image: -webkit-linear-gradient(top, #e3f2fa, #d1e1eb);
@@ -232,8 +250,7 @@ padding: 20px;
 }
 
 
-
-  .footer-link {
+.footer-link {
     background: #55e6e6;
     background-image: -webkit-linear-gradient(top, #55d0e6, #2cc9c9);
     background-image: -moz-linear-gradient(top, #55d0e6, #2cc9c9);
@@ -249,8 +266,9 @@ padding: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
+
   
-  .footer-link:hover {
+.footer-link:hover {
     background: #3ce0fd;
     background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
     background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
@@ -258,109 +276,125 @@ padding: 20px;
     background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
-  }
-  
+}
 
-  .info{
 
+.info{
     text-align: center;
     color: #fff;
      width: 96%;
-    
-  }
+}
 
 
   .copiright{
     color: #444040;
     padding: 5px;
-   
-  }
+    text-align: left;
+}
 
-  .Christ{
+.Christ{
     text-align: center;
   }
 
-  .comment{
+
+.comment{
     position: relative;
     left: 650px;
     bottom: 195px;
-  }
+}
+
 
   .form-grup{
     position: relative;
-    left: 600px;
+    left: 800px;
     bottom: 85px;
     width: 75%;
   }
 
-  .form-grop{
-    position: relative;
-    left: 600px;
-    bottom: 76px;
-  }
-  
-  .partner{
-    position: relative;
-    left: 40px;
-    bottom: 72px;
-    width: 42%;
-    color:red
-  }
 
-  .buttons{
-    position: relative;
-    left: 592px;
-    bottom: 190px;
-    margin: 0 0 20px 42px;
-  }
-
-  .align{
+.partner{
     text-align: center;
+    background-color: yellow;
   }
 
-  .christ{
+
+.bttons{
     text-align: center;
-  }
+    background-color: yellow;
+}
 
-  @media (min-width: 576px) and (max-width: 992px){
-    body{
+
+.nations{
+    position: relative;
+    bottom: 30px;
+}
+
+
+.mail-us{
+    position: relative;
+    left: 582px;
+    bottom: 50px;
+}
+
+
+.christ{
+    text-align: center;
+    background-color: rgb(13, 230, 157);
+    color: #fff;
+}
+
+
+@media (min-width: 576px) and (max-width: 1400px)
+    
+body{
         width: 100%;
-    }
+}
 
-    .form-grup{
+
+.form-grup{
         position: relative;
-        left: 380px;
+        left: 420px;
         bottom: 85px;
         padding: 0 0 20px 0;
         width: 95%;
-      
-    }
+}
 
-    .form-grop{
+
+.form-grop{
         position: relative;
-        left: 380px;
+        left: 580px;
         bottom: 76px;
         padding: 0 0 50px 0;
         width: 95%;
-       
-    }
+}
 
-    .buttons{
+
+.mail-us{
+        position: relative;
+        left: 420px;
+        bottom: 50px;
+}
+
+
+.buttons{
         position: relative;
         left: 340px;
         bottom: 240px;
         padding: 0 0 0 30px;
         
-    }
+}
 
-    .country{
+
+.country{
         margin: 10px;
-    }
+}
 
-    .christ{
+.christ{
         text-align: center;
         padding: 0 0 20px 0;
-        
-       
-    }
-  }
+}
+  
+
+.partner{
+        padding: 5px;
+}
