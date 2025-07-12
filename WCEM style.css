@@ -182,6 +182,17 @@ h6{
     text-align: left;
 }
 
+.livestream{
+    position: relative;
+    left: 150px;
+    bottom: 17px;
+}
+
+.live-play{
+    position: relative;
+    left: 1100px;
+    bottom: 47px;
+}
 
 .weekly{
 background-color: rgb(240, 106, 106);
