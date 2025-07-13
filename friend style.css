@@ -1,0 +1,469 @@
+
+body{
+    background-color: #53effa;
+    width: 100%;
+    text-align: center;
+}
+    
+.all{
+    background-color: #2cc9c9;
+    padding: 30px;
+}
+
+
+h4{
+   font-family:cursive;
+    font-style: italic;
+}
+
+h2{
+    font-size: 15px;
+}
+
+h6{
+    font-size: 10px;
+}
+
+
+
+
+
+
+.week{
+    margin: 20px;
+}
+
+.contain{
+    width: 100%;
+    text-align: center;
+}
+
+
+.world{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left:13%;
+    bottom: 30px;
+    font-size: 15px;
+}
+
+
+.play-video{
+    color: #fff;
+    background-color: rgb(65, 60, 60);
+}
+
+
+.world-com{
+    font-size: 100%;
+    color: #fff;
+    text-align: center;
+    bottom: 30px;
+    font-weight: bolder;
+}
+
+
+.reach{
+    color: #fff;
+    text-align: right;
+}
+
+
+.history{
+    width: 98%;
+    position: relative;
+    left: 30px;
+    background-color: #e3f2fd;
+    line-height: 2;
+}
+
+
+.grass{
+    text-align: right;
+    padding: 0px 5px;
+    background-color: #1b1212;
+    position: relative;
+    bottom: 5px;
+}
+
+
+.first-service{
+    width: 98%;
+    position: relative;
+    left: 30px;
+    background-color: #e3f2fd;
+}
+
+
+.logo{
+    text-align: center;
+    top: 50px;
+    width: 100%;
+    padding-top: 20px;
+    
+}
+
+
+.headings{
+    background-color: red;
+    width: 100%;
+}
+
+
+.scripture{
+    width: 95%;
+    position: relative;
+    left: 30px;
+}
+
+
+.third-logo{
+    position: relative;
+    left: 150px;
+    bottom: 260px;
+}
+
+
+.service{
+    width: 50%;
+    position: relative;
+    left: 500px;
+}
+
+
+.forth-logo{
+    position: relative;
+    left: 150px;
+    bottom: 180px;
+}
+
+
+.weekly{
+    text-align: center;
+}
+
+
+.vision{
+    width: 98%;
+    position: relative;
+    left: 30px;
+}
+
+
+.contact{
+    text-align: center;
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+    width: 100%;
+    text-align: center;
+}
+
+
+.fifth-logo{
+    position: relative;
+    left: 150px;
+    bottom: 220px;
+}
+
+
+.missioner{
+    text-align: right;
+    padding: 25px;
+    background-color:  rgb(25, 243, 170);
+}
+
+
+.request{
+    text-align: left;
+}
+
+
+.video{
+    background-color: #1b1212;
+    color: #ffffff;
+    padding: 10px;
+   
+   
+    
+}
+
+.livestream{
+    position: absolute;
+    left: 150px;
+    bottom: 17px;
+}
+
+.live-play{
+    position: absolute;
+    left: 1100px;
+    bottom: 15px;
+}
+
+.recorded{
+    position: absolute;
+    left: 160px;
+   
+    
+}
+
+.recorded-play{
+    position: absolute;
+    left: 1000px;
+    
+}
+
+
+.video-grace{
+    background-color: #1b1212;
+    color: #ffffff;
+    padding: 30px;
+   
+}
+
+
+.weekly{
+background-color: rgb(240, 106, 106);
+padding: 20px;
+}
+
+
+.members{
+    background-color: aquamarine;
+}
+
+
+.reaching{
+    color: #2e1d1d;
+    background-color: red;
+    padding: 20px;
+    text-align: right;
+}
+
+
+.contaner{
+    width: 30%;
+    padding: 0 0 0 25px;
+    position: relative;
+    left: 150px;
+    margin: 5px;
+}
+
+
+.wcem-messages{
+    margin-left: 60px;
+}
+
+
+.mail-us{
+    position: absolute;
+    left: 60px;
+
+}
+
+
+
+.btn {
+  background: #edf2f5;
+  background-image: -webkit-linear-gradient(top, #edf2f5, #f9fbfc);
+  background-image: -moz-linear-gradient(top, #edf2f5, #f9fbfc);
+  background-image: -ms-linear-gradient(top, #edf2f5, #f9fbfc);
+  background-image: -o-linear-gradient(top, #edf2f5, #f9fbfc);
+  background-image: linear-gradient(to bottom, #edf2f5, #f9fbfc);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+.btn:hover {
+  background: #e3f2fa;
+  background-image: -webkit-linear-gradient(top, #e3f2fa, #d1e1eb);
+  background-image: -moz-linear-gradient(top, #e3f2fa, #d1e1eb);
+  background-image: -ms-linear-gradient(top, #e3f2fa, #d1e1eb);
+  background-image: -o-linear-gradient(top, #e3f2fa, #d1e1eb);
+  background-image: linear-gradient(to bottom, #e3f2fa, #d1e1eb);
+  text-decoration: none;
+}
+
+
+.footer-link{
+    margin: 7px;
+}
+
+
+.footer-link {
+    background: #55e6e6;
+    background-image: -webkit-linear-gradient(top, #55d0e6, #2cc9c9);
+    background-image: -moz-linear-gradient(top, #55d0e6, #2cc9c9);
+    background-image: -ms-linear-gradient(top, #55d0e6, #2cc9c9);
+    background-image: -o-linear-gradient(top, #55d0e6, #2cc9c9);
+    background-image: linear-gradient(to bottom, #55d0e6, #2cc9c9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  
+.footer-link:hover {
+    background: #3ce0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+
+.info{
+    text-align: center;
+    color: #fff;
+    width: 96%;
+    
+}
+
+
+  .copiright{
+    color: #444040;
+    padding: 5px;
+    text-align: left;
+}
+
+.Christ{
+    text-align: center;
+  }
+
+
+.comment{
+    position: relative;
+    left: 650px;
+    bottom: 195px;
+}
+
+
+  .form-grup{
+    position: relative;
+    left: 800px;
+    bottom: 85px;
+    width: 75%;
+  }
+
+
+.partner{
+    text-align: center;
+    background-color: yellow;
+  }
+
+
+.bttons{
+    text-align: center;
+    background-color: yellow;
+}
+
+
+.nations{
+    position: relative;
+    bottom: 30px;
+}
+
+
+.mail-us{
+    position: relative;
+    left: 582px;
+    bottom: 50px;
+}
+
+
+.christ{
+    text-align: center;
+    background-color: rgb(13, 230, 157);
+    color: #fff;
+}
+
+
+
+.social{
+    background-color: #66d8d8;
+    width: 100%;
+    padding: 15px 15px 15px 5px;
+}
+
+
+.reachh{
+    background-color:  #70ecec;
+    width: 100%;
+    padding: 15px 15px 15px 5px;
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 1400px)
+
+body{
+        width: 100%;
+}
+
+
+.form-grup{
+        position: relative;
+        left: 420px;
+        bottom: 85px;
+        padding: 0 0 20px 0;
+        width: 95%;
+}
+
+
+.form-grop{
+        position: relative;
+        left: 580px;
+        bottom: 76px;
+        padding: 0 0 50px 0;
+        width: 95%;
+}
+
+
+.mail-us{
+        position: relative;
+        left: 420px;
+        bottom: 50px;
+}
+
+
+.buttons{
+        position: relative;
+        left: 340px;
+        bottom: 240px;
+        padding: 0 0 0 30px;
+        
+}
+
+
+.country{
+        margin: 10px;
+}
+
+.christ{
+        text-align: center;
+        padding: 0 0 20px 0;
+}
+  
+
+.partner{
+        padding: 5px;
+}
