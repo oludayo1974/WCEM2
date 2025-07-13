@@ -22,6 +22,11 @@ h6{
     font-size: 10px;
 }
 
+
+
+
+
+
 .week{
     margin: 20px;
 }
@@ -178,21 +183,47 @@ h6{
 .video{
     background-color: #1b1212;
     color: #ffffff;
-    padding: 20px;
-    text-align: left;
+    padding: 10px;
+   
+   
+    
 }
 
 .livestream{
-    position: relative;
+    position: absolute;
     left: 150px;
     bottom: 17px;
 }
 
 .live-play{
-    position: relative;
-    left: 1100px;
-    bottom: 47px;
+    position: absolute;
+    left: 1200px;
+    
+    width: 90%;
 }
+
+.recorded{
+    position: absolute;
+    left: 160px;
+    width: 90%;
+   
+    
+}
+
+.recorded-play{
+    position: absolute;
+    left: 1000px;
+    
+}
+
+
+.video-grace{
+    background-color: #1b1212;
+    color: #ffffff;
+    padding: 30px;
+   
+}
+
 
 .weekly{
 background-color: rgb(240, 106, 106);
@@ -355,8 +386,11 @@ padding: 20px;
 }
 
 
+
+
+
 @media (min-width: 576px) and (max-width: 1400px)
-    
+
 body{
         width: 100%;
 }
@@ -393,6 +427,20 @@ body{
         bottom: 240px;
         padding: 0 0 0 30px;
         
+}
+
+
+.live-play{
+    position: absolute;
+    left: 720px;
+    bottom: 15px;
+}
+
+.recorded-play{
+    position: absolute;
+    left: 720px;
+    width: 100%;
+   
 }
 
 
